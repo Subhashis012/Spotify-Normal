@@ -2,7 +2,7 @@ import React from 'react'
 import Navbar from './Navbar'
 import { albumsData,songsData } from '../assets/assets'
 import Albumitem from './Albumitem'
-import SongItem from './songItem'
+import SongItem from './SongItem'
 const DisplayHome = () => {
   return (
     <>
